@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 15px;
+    padding: 0 15px;
+}
+
+.big-boss {
+    background-color: #004047;
+    height: 100vh;
+}
+
+.mini-boss h2 {
+    text-align: center;
+    color: #fff;
+}
+
+.box {
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.boxes {
+    width: 296px;
+    height: 200px;
+    background-color: #012F34;
+    margin: 5px;
+}
+
+.box-1 img {
+    display: inline-block;
+    justify-content: center;
+}
